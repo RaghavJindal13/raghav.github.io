@@ -1085,3 +1085,27 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.skill-img
+{
+  width:60vw ;
+  height: fit-content;
+  display: flex;
+}
+.col
+{
+  margin: auto;
+  margin: 10px 60px;
+  
+}
+.img-container
+{
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+  padding: 40px;
+}
+.img-container img{
+  margin: 15px ;
+  
+}
